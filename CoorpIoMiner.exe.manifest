@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CoorpIoMiner.exe" size="716192">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CoorpIoMiner.exe" size="716704">
       <assemblyIdentity name="CoorpIoMiner" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>6am2kgZStUsEEq2fO++SfEN53Ky2uUG3K1RrSfIU6vs=</dsig:DigestValue>
+        <dsig:DigestValue>PlKhdsxJE/MbN4ph/3qhXtpXLm14gNvexGybHHj7hUc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
