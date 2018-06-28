@@ -1,4 +1,4 @@
 Coorp.io miner 
  - support nvidia 
  - algorithm equihash
-![alt text](https://github.com/coorp-io/coorp-Miner/blob/master/6.jpg)
+ ![Image alt](https://github.com/coorp-io/Coorp_miner/blob/master/6.jpg)
